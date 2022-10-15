@@ -3,6 +3,7 @@ type = "webpack"
 workers_dev = true
 route = ""
 zone_id = ""
+compatibility_date = "2022-10-15"
 
 [site]
 bucket = "./site"
