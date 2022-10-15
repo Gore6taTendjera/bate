@@ -1,4 +1,4 @@
-name = "12VklasPGBT"
+name = "12vklaspgbt"
 type = "webpack"
 workers_dev = true
 route = ""
