@@ -8,3 +8,5 @@ compatibility_date = "2022-10-15"
 [site]
 bucket = "./site"
 entry-point = "workers-site"
+
+npm audit fixs
