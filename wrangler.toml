@@ -8,3 +8,10 @@ compatibility_date = "2022-10-15"
 [site]
 bucket = "./site"
 entry-point = "workers-site"
+
+
+
+
+routes = [	{ pattern = "subdomain.12vklaspgbt.com", custom_domain = true, zone_name = "12vklaspgbt.com" }
+]
+
