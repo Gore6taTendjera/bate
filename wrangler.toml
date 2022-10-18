@@ -6,7 +6,7 @@ zone_id = ""
 compatibility_date = "2022-10-15"
 pattern = "subdomain.12vklaspgbt.com"
 custom_domain = true
-zone_name = "12vklaspgbt.com
+zone_name = "12vklaspgbt.com"
 
 [site]
 bucket = "./site"
